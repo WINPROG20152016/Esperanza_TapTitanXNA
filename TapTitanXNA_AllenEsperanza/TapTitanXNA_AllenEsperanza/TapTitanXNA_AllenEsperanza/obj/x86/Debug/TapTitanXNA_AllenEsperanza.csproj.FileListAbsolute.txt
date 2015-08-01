@@ -1,0 +1,15 @@
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\bin\x86\Debug\TapTitanXNA_AllenEsperanza.exe
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\bin\x86\Debug\TapTitanXNA_AllenEsperanza.pdb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\obj\x86\Debug\TapTitanXNA_AllenEsperanza.exe
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\obj\x86\Debug\TapTitanXNA_AllenEsperanza.pdb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\bin\x86\Debug\Content\herosprite\9448464_orig.xnb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\bin\x86\Debug\Content\bg\gojirra.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\obj\x86\Debug\TapTitanXNA_AllenEsperanza.csprojResolveAssemblyReference.cache
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\bin\x86\Debug\Content\herosprite\64566.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\bin\x86\Debug\Content\herosprite\64566-2.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\bin\x86\Debug\Content\support\kick.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\bin\x86\Debug\Content\support\luigi.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\bin\x86\Debug\Content\Button\yellow_button.fw.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\TapTitanXNA_AllenEsperanza\bin\x86\Debug\Content\bg\trippy.xnb
